@@ -1,6 +1,6 @@
 Welcome to my profil!
 
-I am Anja and
+I am Anja (pronouns: she/her) and
 - live in Hamburg 📍.
 - love 🍋.
 - am a Web Dev student💻.
