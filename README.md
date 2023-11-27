@@ -1,9 +1,9 @@
 Welcome to my profil!
 
 I am Anja and
-- live in Hamburg.
+- live in Hamburg 📍.
 - love 🍋.
-- am a Web Dev student.
+- am a Web Dev student💻.
 - studied social work and psychology.
 - really like to work in non-profit-projects.
 
