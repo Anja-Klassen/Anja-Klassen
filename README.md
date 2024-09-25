@@ -6,7 +6,7 @@
 I am Anja (pronouns: she/her) and
 - live in Hamburg 📍.
 - love 🍋.
-- am a Web Dev student💻.
+- finished a web development and UX/UI Design Bootcamp at neuefische💻.
 - studied social work and psychology.
 - really like to work in non-profit-projects.
 
